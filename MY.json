@@ -1,0 +1,21 @@
+[
+  {
+    "club": "Kelab Golf Perkhidmatan Awam (KGPA)",
+    "country": "MY",
+    "city": "Petaling Jaya",
+    "courses": [
+      { "name": "Lakes",  "holes": [ {"num":1,"par":4},{"num":2,"par":3},{"num":3,"par":5},{"num":4,"par":4},{"num":5,"par":4},{"num":6,"par":3},{"num":7,"par":4},{"num":8,"par":5},{"num":9,"par":4} ] },
+      { "name": "Hills",  "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Forest", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] }
+    ]
+  },
+  {
+    "club": "Kuala Lumpur Golf & Country Club (TPC Kuala Lumpur / KLGCC)",
+    "country": "MY",
+    "city": "Kuala Lumpur",
+    "courses": [
+      { "name": "East Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "West Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  }
+]
