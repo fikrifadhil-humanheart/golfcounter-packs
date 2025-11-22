@@ -4,7 +4,7 @@
     "country": "MY",
     "city": "Petaling Jaya",
     "courses": [
-      { "name": "Lakes",  "holes": [ {"num":1,"par":4},{"num":2,"par":3},{"num":3,"par":5},{"num":4,"par":4},{"num":5,"par":4},{"num":6,"par":3},{"num":7,"par":4},{"num":8,"par":5},{"num":9,"par":4} ] },
+      { "name": "Lakes",  "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
       { "name": "Hills",  "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
       { "name": "Forest", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] }
     ]
@@ -16,6 +16,183 @@
     "courses": [
       { "name": "East Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
       { "name": "West Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Saujana Golf & Country Club",
+    "country": "MY",
+    "city": "Shah Alam",
+    "courses": [
+      { "name": "Palm Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "Bunga Raya Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Kota Permai Golf & Country Club",
+    "country": "MY",
+    "city": "Shah Alam",
+    "courses": [
+      { "name": "Kota Permai Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Tropicana Golf & Country Resort",
+    "country": "MY",
+    "city": "Petaling Jaya",
+    "courses": [
+      { "name": "East Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "West Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Glenmarie Golf & Country Club",
+    "country": "MY",
+    "city": "Shah Alam",
+    "courses": [
+      { "name": "Garden Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "Valley Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "The Mines Resort & Golf Club",
+    "country": "MY",
+    "city": "Seri Kembangan",
+    "courses": [
+      { "name": "The Mines Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Palm Garden Golf Club",
+    "country": "MY",
+    "city": "Putrajaya (IOI Resort)",
+    "courses": [
+      { "name": "Palm Garden Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Bangi Golf Resort",
+    "country": "MY",
+    "city": "Bangi",
+    "courses": [
+      { "name": "Bangi Nine", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Kajang Nine", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Putrajaya Nine", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] }
+    ]
+  },
+  {
+    "club": "Horizon Hills Golf & Country Club",
+    "country": "MY",
+    "city": "Johor Bahru",
+    "courses": [
+      { "name": "Horizon Hills Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Penang Golf Club (Bukit Jambul)",
+    "country": "MY",
+    "city": "Penang",
+    "courses": [
+      { "name": "Penang Golf Club Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "The Els Club Teluk Datai",
+    "country": "MY",
+    "city": "Langkawi",
+    "courses": [
+      { "name": "Datai Bay Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "The Els Club Desaru Coast",
+    "country": "MY",
+    "city": "Desaru",
+    "courses": [
+      { "name": "Ocean Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "Valley Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Forest City Golf Resort",
+    "country": "MY",
+    "city": "Johor",
+    "courses": [
+      { "name": "Legacy Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "Classic Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Kota Seriemas Golf & Country Club",
+    "country": "MY",
+    "city": "Nilai",
+    "courses": [
+      { "name": "Kota Seriemas Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Staffield Country Resort",
+    "country": "MY",
+    "city": "Mantin",
+    "courses": [
+      { "name": "Northern Nine", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Southern Nine", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Western Nine",  "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] }
+    ]
+  },
+  {
+    "club": "Nilai Springs Golf & Country Club",
+    "country": "MY",
+    "city": "Nilai",
+    "courses": [
+      { "name": "Nilai Springs Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Kelab Golf Negara Subang (KGNS)",
+    "country": "MY",
+    "city": "Subang Jaya",
+    "courses": [
+      { "name": "Putra Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "Kelana Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Royal Selangor Golf Club (RSGC)",
+    "country": "MY",
+    "city": "Kuala Lumpur",
+    "courses": [
+      { "name": "Old Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "New Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Palm Resort Golf & Country Club",
+    "country": "MY",
+    "city": "Senai, Johor",
+    "courses": [
+      { "name": "Allamanda Course", "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "Cempaka Course",   "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] },
+      { "name": "Melati Course",    "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9},{"num":10},{"num":11},{"num":12},{"num":13},{"num":14},{"num":15},{"num":16},{"num":17},{"num":18} ] }
+    ]
+  },
+  {
+    "club": "Tiara Melaka Golf & Country Club",
+    "country": "MY",
+    "city": "Melaka",
+    "courses": [
+      { "name": "Lake Nine",     "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Meadows Nine",  "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Woodlands Nine","holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] }
+    ]
+  },
+  {
+    "club": "A'Famosa Golf Resort",
+    "country": "MY",
+    "city": "Alor Gajah",
+    "courses": [
+      { "name": "Palm Nine",      "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Pines Nine",     "holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] },
+      { "name": "Rock Valley Nine","holes": [ {"num":1},{"num":2},{"num":3},{"num":4},{"num":5},{"num":6},{"num":7},{"num":8},{"num":9} ] }
     ]
   }
 ]
