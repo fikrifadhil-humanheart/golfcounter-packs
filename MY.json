@@ -1,905 +1,5 @@
 [
   {
-    "club": "1 - Easy Par",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 1,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "1 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 1,
-            "par": 4,
-            "hcp": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "1 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 1,
-            "par": 4,
-            "hcp": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "10 - Early Bird",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 10,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "10 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 10,
-            "par": 4,
-            "hcp": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "10 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 10,
-            "par": 4,
-            "hcp": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "11 - Mongolian Desert",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 11,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "11 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 11,
-            "par": 4,
-            "hcp": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "11 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 11,
-            "par": 4,
-            "hcp": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "12 - Silk Road",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 12,
-            "par": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "12 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 12,
-            "par": 3,
-            "hcp": 18
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "12 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 12,
-            "par": 3,
-            "hcp": 18
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "13 - Challenger",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 13,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "13 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 13,
-            "par": 5,
-            "hcp": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "13 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 13,
-            "par": 5,
-            "hcp": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "14 - Short Trip",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 14,
-            "par": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "14 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 14,
-            "par": 4,
-            "hcp": 14
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "14 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 14,
-            "par": 4,
-            "hcp": 14
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "15 - Double Green",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 15,
-            "par": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "15 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 15,
-            "par": 5,
-            "hcp": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "15 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 15,
-            "par": 5,
-            "hcp": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "16 - Beach Hole",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 16,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "16 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 16,
-            "par": 4,
-            "hcp": 6
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "16 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 16,
-            "par": 4,
-            "hcp": 6
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "17 - Golden Bear",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 17,
-            "par": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "17 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 17,
-            "par": 3,
-            "hcp": 12
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "17 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 17,
-            "par": 3,
-            "hcp": 12
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "18 - Home Bound",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 18,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "18 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 18,
-            "par": 4,
-            "hcp": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "18 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 18,
-            "par": 4,
-            "hcp": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "2 - Easy Par",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 2,
-            "par": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "2 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 2,
-            "par": 4,
-            "hcp": 11
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "2 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 2,
-            "par": 4,
-            "hcp": 11
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "3 - Nicklaus Pond",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 3,
-            "par": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "3 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 3,
-            "par": 5,
-            "hcp": 1
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "3 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 3,
-            "par": 5,
-            "hcp": 1
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "4 - Sunrise Strip",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 4,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "4 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 4,
-            "par": 3,
-            "hcp": 17
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "4 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 4,
-            "par": 3,
-            "hcp": 17
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "5 - Sungai Long",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 5,
-            "par": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "5 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 5,
-            "par": 5,
-            "hcp": 15
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "5 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 5,
-            "par": 5,
-            "hcp": 15
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "6 - Boomerang",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 6,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "6 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 6,
-            "par": 3,
-            "hcp": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "6 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 6,
-            "par": 3,
-            "hcp": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "7 - Sahara",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 7,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "7 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 7,
-            "par": 4,
-            "hcp": 7
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "7 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 7,
-            "par": 4,
-            "hcp": 7
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "8 - Double Trap",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 8,
-            "par": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "8 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 8,
-            "par": 4,
-            "hcp": 9
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "8 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 8,
-            "par": 4,
-            "hcp": 9
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "9 - Waterfall",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 9,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "9 (New)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 9,
-            "par": 4,
-            "hcp": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "9 (Old)",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 9,
-            "par": 4,
-            "hcp": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
     "club": "99 Degrees East Golf Club",
     "country": "MY",
     "city": "",
@@ -1281,298 +381,6 @@
       {
         "name": "Main Course",
         "holes": []
-      }
-    ]
-  },
-  {
-    "club": "Hole 1",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 1,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 10",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 10,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 11",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 11,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 12",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 12,
-            "par": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 13",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 13,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 14",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 14,
-            "par": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 15",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 15,
-            "par": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 16",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 16,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 17",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 17,
-            "par": 4
-          },
-          {
-            "num": 18,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 18",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 18,
-            "par": 6
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 2",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 2,
-            "par": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 3",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 3,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 4",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 4,
-            "par": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 5",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 5,
-            "par": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 6",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 6,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 7",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 7,
-            "par": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 8",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 8,
-            "par": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "club": "Hole 9",
-    "country": "MY",
-    "city": "",
-    "courses": [
-      {
-        "name": "Main Course",
-        "holes": [
-          {
-            "num": 9,
-            "par": 4
-          }
-        ]
       }
     ]
   },
@@ -2846,6 +1654,528 @@
     "country": "MY",
     "city": "",
     "courses": [
+      {
+        "name": "1 - Easy Par",
+        "holes": [
+          {
+            "num": 1,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "1 (New)",
+        "holes": [
+          {
+            "num": 1,
+            "par": 4,
+            "hcp": 3
+          }
+        ]
+      },
+      {
+        "name": "1 (Old)",
+        "holes": [
+          {
+            "num": 1,
+            "par": 4,
+            "hcp": 3
+          }
+        ]
+      },
+      {
+        "name": "10 - Early Bird",
+        "holes": [
+          {
+            "num": 10,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "10 (New)",
+        "holes": [
+          {
+            "num": 10,
+            "par": 4,
+            "hcp": 16
+          }
+        ]
+      },
+      {
+        "name": "10 (Old)",
+        "holes": [
+          {
+            "num": 10,
+            "par": 4,
+            "hcp": 16
+          }
+        ]
+      },
+      {
+        "name": "11 - Mongolian Desert",
+        "holes": [
+          {
+            "num": 11,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "11 (New)",
+        "holes": [
+          {
+            "num": 11,
+            "par": 4,
+            "hcp": 4
+          }
+        ]
+      },
+      {
+        "name": "11 (Old)",
+        "holes": [
+          {
+            "num": 11,
+            "par": 4,
+            "hcp": 4
+          }
+        ]
+      },
+      {
+        "name": "12 - Silk Road",
+        "holes": [
+          {
+            "num": 12,
+            "par": 5
+          }
+        ]
+      },
+      {
+        "name": "12 (New)",
+        "holes": [
+          {
+            "num": 12,
+            "par": 3,
+            "hcp": 18
+          }
+        ]
+      },
+      {
+        "name": "12 (Old)",
+        "holes": [
+          {
+            "num": 12,
+            "par": 3,
+            "hcp": 18
+          }
+        ]
+      },
+      {
+        "name": "13 - Challenger",
+        "holes": [
+          {
+            "num": 13,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "13 (New)",
+        "holes": [
+          {
+            "num": 13,
+            "par": 5,
+            "hcp": 2
+          }
+        ]
+      },
+      {
+        "name": "13 (Old)",
+        "holes": [
+          {
+            "num": 13,
+            "par": 5,
+            "hcp": 2
+          }
+        ]
+      },
+      {
+        "name": "14 - Short Trip",
+        "holes": [
+          {
+            "num": 14,
+            "par": 3
+          }
+        ]
+      },
+      {
+        "name": "14 (New)",
+        "holes": [
+          {
+            "num": 14,
+            "par": 4,
+            "hcp": 14
+          }
+        ]
+      },
+      {
+        "name": "14 (Old)",
+        "holes": [
+          {
+            "num": 14,
+            "par": 4,
+            "hcp": 14
+          }
+        ]
+      },
+      {
+        "name": "15 - Double Green",
+        "holes": [
+          {
+            "num": 15,
+            "par": 5
+          }
+        ]
+      },
+      {
+        "name": "15 (New)",
+        "holes": [
+          {
+            "num": 15,
+            "par": 5,
+            "hcp": 10
+          }
+        ]
+      },
+      {
+        "name": "15 (Old)",
+        "holes": [
+          {
+            "num": 15,
+            "par": 5,
+            "hcp": 10
+          }
+        ]
+      },
+      {
+        "name": "16 - Beach Hole",
+        "holes": [
+          {
+            "num": 16,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "16 (New)",
+        "holes": [
+          {
+            "num": 16,
+            "par": 4,
+            "hcp": 6
+          }
+        ]
+      },
+      {
+        "name": "16 (Old)",
+        "holes": [
+          {
+            "num": 16,
+            "par": 4,
+            "hcp": 6
+          }
+        ]
+      },
+      {
+        "name": "17 - Golden Bear",
+        "holes": [
+          {
+            "num": 17,
+            "par": 3
+          }
+        ]
+      },
+      {
+        "name": "17 (New)",
+        "holes": [
+          {
+            "num": 17,
+            "par": 3,
+            "hcp": 12
+          }
+        ]
+      },
+      {
+        "name": "17 (Old)",
+        "holes": [
+          {
+            "num": 17,
+            "par": 3,
+            "hcp": 12
+          }
+        ]
+      },
+      {
+        "name": "18 - Home Bound",
+        "holes": [
+          {
+            "num": 18,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "18 (New)",
+        "holes": [
+          {
+            "num": 18,
+            "par": 4,
+            "hcp": 8
+          }
+        ]
+      },
+      {
+        "name": "18 (Old)",
+        "holes": [
+          {
+            "num": 18,
+            "par": 4,
+            "hcp": 8
+          }
+        ]
+      },
+      {
+        "name": "2 - Easy Par",
+        "holes": [
+          {
+            "num": 2,
+            "par": 5
+          }
+        ]
+      },
+      {
+        "name": "2 (New)",
+        "holes": [
+          {
+            "num": 2,
+            "par": 4,
+            "hcp": 11
+          }
+        ]
+      },
+      {
+        "name": "2 (Old)",
+        "holes": [
+          {
+            "num": 2,
+            "par": 4,
+            "hcp": 11
+          }
+        ]
+      },
+      {
+        "name": "3 - Nicklaus Pond",
+        "holes": [
+          {
+            "num": 3,
+            "par": 3
+          }
+        ]
+      },
+      {
+        "name": "3 (New)",
+        "holes": [
+          {
+            "num": 3,
+            "par": 5,
+            "hcp": 1
+          }
+        ]
+      },
+      {
+        "name": "3 (Old)",
+        "holes": [
+          {
+            "num": 3,
+            "par": 5,
+            "hcp": 1
+          }
+        ]
+      },
+      {
+        "name": "4 - Sunrise Strip",
+        "holes": [
+          {
+            "num": 4,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "4 (New)",
+        "holes": [
+          {
+            "num": 4,
+            "par": 3,
+            "hcp": 17
+          }
+        ]
+      },
+      {
+        "name": "4 (Old)",
+        "holes": [
+          {
+            "num": 4,
+            "par": 3,
+            "hcp": 17
+          }
+        ]
+      },
+      {
+        "name": "5 - Sungai Long",
+        "holes": [
+          {
+            "num": 5,
+            "par": 5
+          }
+        ]
+      },
+      {
+        "name": "5 (New)",
+        "holes": [
+          {
+            "num": 5,
+            "par": 5,
+            "hcp": 15
+          }
+        ]
+      },
+      {
+        "name": "5 (Old)",
+        "holes": [
+          {
+            "num": 5,
+            "par": 5,
+            "hcp": 15
+          }
+        ]
+      },
+      {
+        "name": "6 - Boomerang",
+        "holes": [
+          {
+            "num": 6,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "6 (New)",
+        "holes": [
+          {
+            "num": 6,
+            "par": 3,
+            "hcp": 13
+          }
+        ]
+      },
+      {
+        "name": "6 (Old)",
+        "holes": [
+          {
+            "num": 6,
+            "par": 3,
+            "hcp": 13
+          }
+        ]
+      },
+      {
+        "name": "7 - Sahara",
+        "holes": [
+          {
+            "num": 7,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "7 (New)",
+        "holes": [
+          {
+            "num": 7,
+            "par": 4,
+            "hcp": 7
+          }
+        ]
+      },
+      {
+        "name": "7 (Old)",
+        "holes": [
+          {
+            "num": 7,
+            "par": 4,
+            "hcp": 7
+          }
+        ]
+      },
+      {
+        "name": "8 - Double Trap",
+        "holes": [
+          {
+            "num": 8,
+            "par": 3
+          }
+        ]
+      },
+      {
+        "name": "8 (New)",
+        "holes": [
+          {
+            "num": 8,
+            "par": 4,
+            "hcp": 9
+          }
+        ]
+      },
+      {
+        "name": "8 (Old)",
+        "holes": [
+          {
+            "num": 8,
+            "par": 4,
+            "hcp": 9
+          }
+        ]
+      },
+      {
+        "name": "9 - Waterfall",
+        "holes": [
+          {
+            "num": 9,
+            "par": 4
+          }
+        ]
+      },
+      {
+        "name": "9 (New)",
+        "holes": [
+          {
+            "num": 9,
+            "par": 4,
+            "hcp": 5
+          }
+        ]
+      },
+      {
+        "name": "9 (Old)",
+        "holes": [
+          {
+            "num": 9,
+            "par": 4,
+            "hcp": 5
+          }
+        ]
+      },
       {
         "name": "Allamanda",
         "holes": [
